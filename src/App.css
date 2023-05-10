@@ -1,0 +1,13 @@
+.card{
+    margin: 20px; 
+}
+
+.card:hover {
+    margin-right: 20px; 
+  margin-bottom: 20px;
+border: 1px solid #635f5f;
+
+  }
+  .me-auto:hover{
+    color: black;
+  }
